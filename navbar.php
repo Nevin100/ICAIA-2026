@@ -51,6 +51,9 @@
       <li class="lg:ml-4 md:ml-1 md:text-[15px] lg:text-[16px] xl:text-xl  leading-5 md:my-0 my-7 md:text-center hover:bg-slate-300 rounded-xl transition-all">
         <a href="#callforpapers" class="nav-link">Call for papers</a>
       </li>
+      <li class="lg:ml-4 md:ml-1 md:text-[15px] lg:text-[16px] xl:text-xl  leading-5 md:my-0 my-7 md:text-center hover:bg-slate-300 rounded-xl transition-all">
+        <a href="#callforpapers" class="nav-link">Call for special session</a>
+      </li>
       <li class="lg:ml-4 md:ml-1 md:text-[15px] lg:text-[16px] xl:text-xl  leading-5 md:my-0 my-7 dropdown hover:bg-slate-300 rounded-xl transition-all cursor-pointer">
         <a class="nav-link">Previous Conferences</a>
         <div class="dropdown-content w-[250px] text-black">
