@@ -98,6 +98,7 @@
   </button>
   <ul id="advisory_dropdown"
     class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+    <li class="px-3 py-2">Dr Sunil Luthra, Director AICTE (India)</li>
     <li class="px-3 py-2">Dr Chandrasekhar Buddha, AICTE (India)</li>
     <li class="px-3 py-2">Prof. S.S. Agrawal, KIIT Gurugram</li>
     <li class="px-3 py-2">Dinesh Didel, MeitY</li>
