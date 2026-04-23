@@ -1,9 +1,17 @@
-<div class='z-[-1] pt-[90px]'>
+<div class='z-[-1] pt-[130px]'>
   <div class="flex justify-center items-center gap-5">
-    <img class='w-[110px]' src="./images/msit_logo.png" alt="MSIT_logo" />
+  <img class='w-[110px]' src="./images/msit_logo.png" alt="MSIT_logo" />
+
+  <!-- ICAIA Logo + Text -->
+  <div class="flex flex-col items-center">
     <img class="w-[150px]" src="./images/icaiaLogo.png" alt="ICAIA Logo">
-    <img class='w-[220px]' src="./images/ieee.png" alt="IEEE_logo" />
+    <p class="mt-2 text-sm md:text-lg font-semibold text-white tracking-wide">
+      ICAIA 2026
+    </p>
   </div>
+
+  <img class='w-[220px]' src="./images/ieee.png" alt="IEEE_logo" />
+</div>
   <div class='mx-[5%] md:mx-[15%] py-6 my-10 rounded-xl shadow border-2 border-white' style='background-color: rgba(255, 255, 255, 0.6);'>
   <div class='text-center text-white text-xl md:text-2xl lg:text-3xl font-[700] mx-auto'>
     
