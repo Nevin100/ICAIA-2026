@@ -44,6 +44,8 @@
 <!-- <div class="mt-14 pb-[50px] pt-16 text-center text-3xl font-[450] font-sans">
             COMING SOON
 </div> -->
+
+<!-- Latest Names : -->
 <div class="mt-8">
   <ul class="mx-3 md:ml-32">
 
