@@ -21,9 +21,8 @@
         <li>
           Kindly ensure that your paper follows the IEEE Guidelines as follows:
           <br />
-          Manuscript should be prepared in a double column, single-spaced format using a required IEEE Access template. A Word or LaTex file and a PDF file are both required upon submission. Content on each file must match exactly. File sizes should not exceed 40MB.
+          Manuscript should be prepared in a double column, single-spaced format using a required IEEE Conference paper template, (<a href="https://www.ieee.org/conferences/publishing/templates?check_logged_in=1" class="underline font-bold text-yellow-200 break-words" download target="_blank">Manuscript Templates for Conference Proceedings | IEEE</a>). A Word or LaTex file and a PDF file are both required upon submission. Content on each file must match exactly. File sizes should not exceed 40MB.
           <br />
-            <a href="assets/IEEE-ConfPaper-Template-Word.doc" class="underline font-bold text-yellow-200 break-words" download target="_blank">Template</a>
         </li>
         <li>
           All papers must be submitted online via:
