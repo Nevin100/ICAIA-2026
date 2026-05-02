@@ -44,3 +44,16 @@
 <!-- <div class="mt-14 pb-[50px] pt-16 text-center text-3xl font-[450] font-sans">
             COMING SOON
 </div> -->
+
+<!-- Latest Names : -->
+<div class="mt-8">
+  <ul class="mx-3 md:ml-32">
+
+    <li class="px-3 py-2"><strong>Prof. Sneha Kabra</strong>, Lead Member Coordinator</li>
+    <li class="px-3 py-2"><strong>Prof. Rajnish Sharma</strong></li>
+    <li class="px-3 py-2"><strong>Prof. Vivek Shrivastava</strong></li>
+    <li class="px-3 py-2"><strong>Dr. Ekta Gandotra</strong></li>
+
+  </ul>
+
+</div>

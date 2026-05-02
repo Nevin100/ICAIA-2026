@@ -1,8 +1,5 @@
 <div class="mx-auto md:ml-0 w-[90%] md:w-[300px]">
-
   <ul class="space-y-2">
-
-
     <li class="relative">
       <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('patrons_dropdown')">
         General Chair
@@ -13,9 +10,6 @@
     </li>
   </ul>
   </li>
-
-
-
 
   <li class="relative">
     <button type="button" class="hover:text-white focus:text-white w-full  bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500" onclick="toggleDropdown('organising_chair_dropdown')">
@@ -56,7 +50,7 @@
     </button>
     <ul id="program_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. Naveen Dahiya</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
+        <strong>Dr. Puneet Azad</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
       </li>
       <li class="px-3 py-2">
         <strong>Dr. Deepak Sharma</strong>, Associate Professor, IGDTUW, New Delhi, INDIA
@@ -96,5 +90,42 @@
       </li>
     </ul>
   </li>
+  <li class="relative">
+  <button type="button"
+    class="hover:text-white focus:text-white w-full bg-gray-200 text-left pl-3 py-2 rounded-md font-medium hover:bg-gray-500 focus:outline-none focus:bg-gray-500"
+    onclick="toggleDropdown('advisory_dropdown')">
+    Advisory
+  </button>
+  <ul id="advisory_dropdown"
+    class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
+    <li class="px-3 py-2">Dr Sunil Luthra, Director AICTE (India)</li>
+    <li class="px-3 py-2">Dr Chandrasekhar Buddha, AICTE (India)</li>
+    <li class="px-3 py-2">Prof. S.S. Agrawal, KIIT Gurugram</li>
+    <li class="px-3 py-2">Dinesh Didel, MeitY</li>
+    <li class="px-3 py-2">Naveen Jakhar, Govt of India</li>
+    <li class="px-3 py-2">Asit Kadyan, TRAI</li>
+    <li class="px-3 py-2">Prof. J.S. Lather, NIT Kurukshetra</li>
+    <li class="px-3 py-2">Dr. Sanjay Yadav, NPL Delhi</li>
+    <li class="px-3 py-2">Prof. Prem Vrat, NorthCap University</li>
+    <li class="px-3 py-2">Prof. Vijay K. Vaishnavi, IEEE Fellow, USA</li>
+    <li class="px-3 py-2">Rajat M. Nag, Asian Development Bank</li>
+    <li class="px-3 py-2">Prof. O.P. Vyas, IIIT Allahabad</li>
+    <li class="px-3 py-2">Prof. B.S. Chowdhry, Mehran University</li>
+    <li class="px-3 py-2">Prof. Ken Surendran, USA</li>
+    <li class="px-3 py-2">Prof. S.A. Abbasi, King Saud University</li>
+    <li class="px-3 py-2">Prof. Subramaniam Ganesan, USA</li>
+    <li class="px-3 py-2">Prof. Ashok K. Agrawala, University of Maryland</li>
+    <li class="px-3 py-2">Dr Amit Dutta, AICTE</li>
+    <li class="px-3 py-2">Sumita Singh, U.S. News</li>
+    <li class="px-3 py-2">Dr A.K Balyan, Dipon India</li>
+    <li class="px-3 py-2">Prof. Manoj Kumar, NIT Delhi</li>
+    <li class="px-3 py-2">Prof. H.K Malik, IIT Delhi</li>
+    <li class="px-3 py-2">Palak Balyan, Climate Trends</li>
+    <li class="px-3 py-2">Abhishek Ranakoti, IIT Delhi</li>
+    <li class="px-3 py-2">Col. B Venkat, TERI SAS</li>
+    <li class="px-3 py-2">Dr Jagvir Singh, MoES</li>
+    <li class="px-3 py-2">Prof. K.P.S. Rana, NSUT Delhi</li>
+  </ul>
+</li>
   </ul>
 </div>
