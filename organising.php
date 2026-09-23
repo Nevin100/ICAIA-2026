@@ -31,7 +31,7 @@
       Conference Chair
     </button>
     <ul id="organising_chair_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
-        <h1><span class="font-semibold">Prof. Archana Balyan</span>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
+        <h1><span class="font-semibold">Prof. Archana Balyan</span>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
   </li>
   </ul>
@@ -42,7 +42,7 @@
     </button>
     <ul id="convener_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <h1><span class="font-semibold">Prof. Rinky Dwivedi</span>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
+        <h1><span class="font-semibold">Prof. Rinky Dwivedi</span>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA</h1>
       </li>
       <li class="px-3 py-2">
         <strong>Dr. Deepshikha Yadav</strong>, Assistant Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA
@@ -173,10 +173,10 @@
     </button>
     <ul id="publication_committee_dropdown" class="md:absolute left-full top-0 mt-2 mx-auto md:ml-2 w-[100%] md:w-[800px] bg-white rounded-md shadow-lg hidden text-left dropdown-menu">
       <li class="px-3 py-2">
-        <strong>Prof. Dr. Koyel Datta Gupta</strong>, Professor, Maharaja Surajmal Institute of Technology, New Delhi, INDIA (Publication Chair)
+        <strong>Prof. Dr. Koyel Datta Gupta</strong>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA (Publication Chair)
       </li>
       <li class="px-3 py-2">
-        <strong>Prof. Dheeraj Joshi</strong>, Professor, Delhi Technological University, New Delhi, INDIA (Co-Chair)
+        <strong>Prof. Dheeraj Joshi</strong>,Delhi Technological University, New Delhi, INDIA (Co-Chair)
       </li>
       <li class="px-3 py-2">
         <strong>Dr. Nishtha Jatana</strong>, Maharaja Surajmal Institute of Technology, New Delhi, INDIA (Co-Chair)
